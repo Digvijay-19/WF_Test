@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="43456" started-at="2018-08-18T03:08:45Z" finished-at="2018-08-18T03:09:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="43456" started-at="2018-08-18T03:08:45Z" finished-at="2018-08-18T03:09:28Z">
+      <class name="com.Ceipal_WF_TestCases.WF_Ceipal_LoginPageTest">
+        <test-method status="PASS" signature="reports()[pri:0, instance:com.Ceipal_WF_TestCases.WF_Ceipal_LoginPageTest@1c8530f]" name="reports" is-config="true" duration-ms="112" started-at="2018-08-18T08:38:45Z" finished-at="2018-08-18T08:38:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reports -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.Ceipal_WF_TestCases.WF_Ceipal_LoginPageTest@1c8530f]" name="login" is-config="true" duration-ms="41896" started-at="2018-08-18T08:38:45Z" finished-at="2018-08-18T08:39:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="ValidateTitle()[pri:0, instance:com.Ceipal_WF_TestCases.WF_Ceipal_LoginPageTest@1c8530f]" name="ValidateTitle" duration-ms="20" started-at="2018-08-18T08:39:27Z" finished-at="2018-08-18T08:39:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Ceipal_WF_TestCases.WF_Ceipal_LoginPageTest@1c8530f]" name="tearDown" is-config="true" duration-ms="1384" started-at="2018-08-18T08:39:27Z" finished-at="2018-08-18T08:39:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Ceipal_WF_TestCases.WF_Ceipal_LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
